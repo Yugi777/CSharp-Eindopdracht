@@ -1,0 +1,15 @@
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\bin\Debug\net6.0\EindProgramma_Reader2.exe
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\bin\Debug\net6.0\EindProgramma_Reader2.deps.json
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\bin\Debug\net6.0\EindProgramma_Reader2.runtimeconfig.json
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\bin\Debug\net6.0\EindProgramma_Reader2.dll
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\bin\Debug\net6.0\EindProgramma_Reader2.pdb
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\EindProgramma_Reader2.csproj.AssemblyReference.cache
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\EindProgramma_Reader2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\EindProgramma_Reader2.AssemblyInfoInputs.cache
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\EindProgramma_Reader2.AssemblyInfo.cs
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\EindProgramma_Reader2.csproj.CoreCompileInputs.cache
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\EindProgramma_Reader2.dll
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\refint\EindProgramma_Reader2.dll
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\EindProgramma_Reader2.pdb
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\EindProgramma_Reader2.genruntimeconfig.cache
+C:\Users\ilker\RiderProjects\EindProgramma_Reader2\EindProgramma_Reader2\obj\Debug\net6.0\ref\EindProgramma_Reader2.dll
